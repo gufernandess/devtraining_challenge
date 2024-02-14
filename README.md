@@ -1,10 +1,12 @@
-<img src="assets/logo.png"/>
+<p align="center">
+  <img src="assets/logo.png" />
+</p>
 
-<div>
+<p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-</div>
+</p>
 
 ## 📲 Sobre
 

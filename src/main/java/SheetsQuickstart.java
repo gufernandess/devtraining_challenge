@@ -66,8 +66,6 @@ public class SheetsQuickstart {
     /**
      * Get an instance of the Sheets service. It is used to access the spreadsheets.
      *
-     * @throws IOException
-     * @throws GeneralSecurityException
      */
 
     public static void getSpreadsheetInstance() throws IOException, GeneralSecurityException {
@@ -79,8 +77,8 @@ public class SheetsQuickstart {
     }
 
     /**
-     * Print students's data in a sample spreadsheet:
-     * https://docs.google.com/spreadsheets/d/1R_Mns-PFo3uuLZVeYKrndmPPL3QOw-yKNMZ4AQW20l0/edit
+     * Print student's data in a sample spreadsheet:
+     * <a href="https://docs.google.com/spreadsheets/d/1R_Mns-PFo3uuLZVeYKrndmPPL3QOw-yKNMZ4AQW20l0/edit">...</a>
      */
     public static void main(String... args) throws IOException, GeneralSecurityException {
         List<List<Object>> values = ReadSheet.read();

@@ -106,7 +106,7 @@ java -jar devtraining_challenge/target/devtraining_challenge-1.0-SNAPSHOT-jar-wi
 </p>
 
 <p align = "justify">
-  O e-mail para teste é <b>utest2182@gmail.com</b> e a senha é <b>7b2E0Y3$%N-q</b>.
+  O e-mail para teste é <b>u0484800@gmail.com</b> e a senha é <b>Bs317|{w`f\F</b>.
 </p>
 
 <p align = "justify">
